@@ -1,5 +1,4 @@
-# Random quote generator
-
+# Markdown Previewer
 This project was inspired by one of the freeCodeCamp's Front End Development Libraries Projects.
 
 ## Brief description
