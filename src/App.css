@@ -1,0 +1,49 @@
+img {
+  max-width: 50vw;
+  height: auto;
+}
+
+
+textarea {
+  min-height: 90vh;
+  height: auto;
+  padding: 10px 20px;
+  border: 0px solid #ccc;
+  border-radius: 0px;
+  background-color: #ffffff;
+  resize: none;
+  border: none;
+  overflow: hidden;
+  outline: none;
+}
+
+textarea:focus {
+  padding: 10px 20px;
+  border: 0px solid #ccc;
+  border-radius: 0px;
+  background-color: #ffffff;
+  resize: none;
+  border: none;
+  overflow: hidden;
+  outline: none;
+}
+
+table {
+  border-collapse: collapse;
+}
+table td {
+  padding: 1rem;
+  border: 2px solid black; 
+}
+table th {
+  padding: 1rem;
+  border: 2px solid black; 
+}
+
+
+blockquote {
+  color: #666;
+  margin: 0;
+  padding-left: 3em;
+  border-left: 0.5em #eee solid;
+}
